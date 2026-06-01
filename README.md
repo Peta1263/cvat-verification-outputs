@@ -1,4 +1,3 @@
-# cvat-verification-outputs
 # Výstupy overenia funkčnosti modelov v prostredí CVAT
 
 Tento repozitár obsahuje exportované výstupy z overenia funkčnosti modelov, ktoré boli integrované do prostredia CVAT v rámci bakalárskej práce.
