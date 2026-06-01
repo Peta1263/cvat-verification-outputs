@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>25</id>
+      <name>OvereneifunkcnsotiDR2</name>
+      <size>10</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-06-01 16:33:00.668632+00:00</created>
+      <updated>2026-06-01 16:33:25.382735+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>9</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>23</id>
+          <start>0</start>
+          <stop>9</stop>
+          <url>http://147.175.106.194:8081/api/jobs/23</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>xkakascikova@stuba.sk</username>
+        <email>xkakascikova@stuba.sk</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>DR_0</name>
+          <color>#ac678b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>DR_1</name>
+          <color>#311c71</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>DR_2</name>
+          <color>#8dc24e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>DR_3</name>
+          <color>#7788d4</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>DR_4</name>
+          <color>#f32306</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-06-01 16:33:58.155926+00:00</dumped>
+  </meta>
+  <image id="0" name="DR_0_1.png" width="224" height="224">
+    <tag label="DR_0" source="auto">
+    </tag>
+  </image>
+  <image id="1" name="DR_0_2.png" width="224" height="224">
+    <tag label="DR_0" source="auto">
+    </tag>
+  </image>
+  <image id="2" name="DR_1_1.png" width="224" height="224">
+    <tag label="DR_1" source="auto">
+    </tag>
+  </image>
+  <image id="3" name="DR_1_2.png" width="224" height="224">
+    <tag label="DR_1" source="auto">
+    </tag>
+  </image>
+  <image id="4" name="DR_2_1.png" width="224" height="224">
+    <tag label="DR_2" source="auto">
+    </tag>
+  </image>
+  <image id="5" name="DR_2_2.png" width="224" height="224">
+    <tag label="DR_2" source="auto">
+    </tag>
+  </image>
+  <image id="6" name="DR_3_1.png" width="224" height="224">
+    <tag label="DR_2" source="auto">
+    </tag>
+  </image>
+  <image id="7" name="DR_3_2.png" width="224" height="224">
+    <tag label="DR_2" source="auto">
+    </tag>
+  </image>
+  <image id="8" name="DR_4_1.png" width="224" height="224">
+    <tag label="DR_4" source="auto">
+    </tag>
+  </image>
+  <image id="9" name="DR_4_2.png" width="224" height="224">
+    <tag label="DR_4" source="auto">
+    </tag>
+  </image>
+</annotations>
